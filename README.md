@@ -1,7 +1,7 @@
-# Getting_and_Cleaning_Data_Course_Project
-# ========================================
+## Getting_and_Cleaning_Data_Course_Project
+## ========================================
 
-## Program and files for assignment
+#### Program and files for assignment
 
 This repository contains the following:
 
